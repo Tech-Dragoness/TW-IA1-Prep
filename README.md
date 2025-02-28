@@ -50,3 +50,7 @@ Looking familiar? This shape is very similar to a square, the difference is the 
 
 ## 5. Rhombus
 
+![Rhombus](https://github.com/user-attachments/assets/d4045238-2931-4547-a383-40dd63478711)
+
+Again, this shape is similar to a square, with all four sides of equal length. But a square must have the angle at all of it's edges as 90° whereas here it can vary, but opposite edges will have equal degrees. Basically, it looks like a lopsided square.
+
